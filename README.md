@@ -2,6 +2,6 @@
 
 ## You will find in this repo the following stuff:
 * Java source code 
-* CRUD pattern
+* CRUD operation
 
 ### Made by Pham Trong Tai from FPTU

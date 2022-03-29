@@ -1,0 +1,2 @@
+Student{studentID='SE150263', name='Pham Trong Tai', sex='male', birthdate='2001-01-16', semester='5'}
+Student{studentID='SE161817', name='Vu Ngoc Mai', sex='female', birthdate='2002-03-18', semester='4'}
